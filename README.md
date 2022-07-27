@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm James! 👋
 
 <!--
 **dugerij/dugerij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<pre>
+💻 I am a self taught Machine Learning Engineer
+📝 I have a strong interest in Computer Vision and Artificial Intelligence
+🔭 Working on Deep Learning & Machine Learning
+🌱 Learning about Computer Vision and Reinforcement Learning
+🌟 Main languages: Python, C++
+🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="linktoresume" target="_blank">MY RESUME.</a>
+</pre>
+
+<br/>
+
+## Connect with me
+
+<p align="center">
+	<a href="mailto:dugeri.jude@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/james-dugeri-52b450b7/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.kaggle.com/judedugeri"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+</p>

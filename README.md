@@ -32,3 +32,18 @@ Here are some ideas to get you started:
 	<a href="https://www.linkedin.com/in/james-dugeri-52b450b7/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.kaggle.com/judedugeri"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 </p>
+
+## GitHub Stats
+
+<!--
+<summary><b>⚡ James' Stats</b></summary>
+<br/>
+-->
+<p align="center">
+	<a href="https://github.com/dugerij">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=dugerij&show_icons=true" alt="dugerij">
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=dugerij" alt="dugerij">
+	</a>
+	<br/>
+</p>
+<br/>

@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 	<a href="https://www.kaggle.com/judedugeri"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 </p>
 
-## GitHub Stats
+# GitHub Stats
 
 <!--
 <summary><b>⚡ James' Stats</b></summary>

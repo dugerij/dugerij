@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <pre>
-💻 I am a self taught Machine Learning Engineer
+💻 I am a self taught Machine Learning Engineer with 2+ years work experience
 📝 I have a strong interest in Computer Vision and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
 🌱 Learning about Computer Vision and Reinforcement Learning
 🌟 Main languages: Python, C++
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="linktoresume" target="_blank">MY RESUME.</a>
+🤔 I’m currently open to: a new <b>job opportunity</b>, this is <a href="https://docs.google.com/document/d/1eySO4I-_dg9ErD7vaBPt2cScCgVeh8e2/edit?usp=sharing&ouid=104199459910556594329&rtpof=true&sd=true" target="_blank">MY RESUME.</a>
 </pre>
 
 <br/>

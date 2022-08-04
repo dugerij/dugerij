@@ -38,7 +38,6 @@ Here are some ideas to get you started:
 ### 👨‍💻 Programming Languages
 
 <p>
-    <a href="https://github.com/dugerij"><img alt="Python" src="https://img.shields.io/badge/JavaS%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/dugerij"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 
 ### 🧰 Frameworks and Libraries

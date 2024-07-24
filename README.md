@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <pre>
-💻 I am a self taught Machine Learning Engineer with 2+ years work experience
+💻 I am a self taught Machine Learning Engineer with 3+ years work experience
 📝 I have a strong interest in Computer Vision and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
 🌱 Learning about Computer Vision and Reinforcement Learning

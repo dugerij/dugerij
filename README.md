@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 🔭 Working on Deep Learning & Machine Learning
 🌱 Learning about Computer Vision and Reinforcement Learning
 🌟 Main languages: Python, C++
-🤔 I’m currently open to: a new <b>job opportunity</b>, here is my <a href="[https://docs.google.com/document/d/1eySO4I-_dg9ErD7vaBPt2cScCgVeh8e2/edit?usp=sharing&ouid=104199459910556594329&rtpof=true&sd=true](https://drive.google.com/file/d/1lesItszU_SgSGqx_AjXQfs7GYn_5QT1_/view?usp=sharing)" target="_blank">resume.</a>
+🤔 I’m currently open to: a new <b>job opportunity</b>, here is my <a href="https://docs.google.com/document/d/1eySO4I-_dg9ErD7vaBPt2cScCgVeh8e2/edit?usp=sharing&ouid=104199459910556594329&rtpof=true&sd=true](https://drive.google.com/file/d/1lesItszU_SgSGqx_AjXQfs7GYn_5QT1_/view?usp=sharing" target="_blank">resume.</a>
 </pre>
 
 <br/>
